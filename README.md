@@ -49,8 +49,8 @@ Contributions are welcome! Please follow these steps:
 
 
 ## Acknowledgments 🙌
-Inspiration: Real-time communication using socket programming.
-Thanks to the Java community for providing excellent networking libraries.
+- Inspiration: Real-time communication using socket programming.
+- Thanks to the Java community for providing excellent networking libraries.
 
 ## Contact 📬
 For queries or suggestions, feel free to reach out:
